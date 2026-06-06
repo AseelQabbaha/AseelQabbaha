@@ -19,12 +19,12 @@ Passionate about building efficient web apps and contributing to innovative proj
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-%23FFFFFF.svg?style=for-the-badge&logo=MUI&logoColor=#007FFF)
 
 # Featured Project
-1. Skin Care - E-Commerce Web Application
+1. Skin Care - E-Commerce Web Application  
 #Tech & Tools: React · Redux · Node.js · Express.js · MongoDB · JWT
 link:https://github.com/C15-AseelQabbaha/MERAKI_Academy_Project_4
 
 
-2. Smart Path App - Educational Learning Platform
+2. Smart Path App - Educational Learning Platform  
 #Tech & Tools:| React · Redux · Next.js · TypeScript · Node.js · Express.js
 link:https://github.com/AseelQabbaha/Project_5_Fork
 
