@@ -29,6 +29,7 @@ link:https://github.com/C15-AseelQabbaha/MERAKI_Academy_Project_4
 link:https://github.com/AseelQabbaha/Project_5_Fork
 
 # Contact me 
-linkedIn Profile  https://www.linkedin.com/in/aseelqabbaha/
+linkedIn Profile  https://www.linkedin.com/in/aseelqabbaha/  
+
 Gmail  aseelqabbaha@gmail.com
    
