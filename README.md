@@ -1,4 +1,4 @@
-Hi, I'm Aseel Hasan Qabbaha
+ # Hi, I'm Aseel Hasan Qabbaha
   🧑‍💻 Full-Stack Developer | React.js, Next.js, TypeScript
 
 # About Me 
@@ -20,13 +20,14 @@ Passionate about building efficient web apps and contributing to innovative proj
 
 # Featured Project
 1. Skin Care - E-Commerce Web Application
-Tech & Tools: React · Redux · Node.js · Express.js · MongoDB · JWT
+#Tech & Tools: React · Redux · Node.js · Express.js · MongoDB · JWT
 link:https://github.com/C15-AseelQabbaha/MERAKI_Academy_Project_4
 
 
 2. Smart Path App - Educational Learning Platform
-Tech & Tools:| React · Redux · Next.js · TypeScript · Node.js · Express.js
+#Tech & Tools:| React · Redux · Next.js · TypeScript · Node.js · Express.js
 link:https://github.com/AseelQabbaha/Project_5_Fork
 
-
+# Contact me 
+linkedIn Profile  https://www.linkedin.com/in/aseelqabbaha/
    
