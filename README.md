@@ -17,3 +17,16 @@ Passionate about building efficient web apps and contributing to innovative proj
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-%23FFFFFF.svg?style=for-the-badge&logo=MUI&logoColor=#007FFF)
+
+# Featured Project
+1. Skin Care - E-Commerce Web Application
+   Tech & Tools: React · Redux · Node.js · Express.js · MongoDB · JWT
+   link:
+
+
+2. Smart Path App - Educational Learning Platform
+   Tech & Tools:| React · Redux · Next.js · TypeScript · Node.js · Express.js
+   link:https://github.com/AseelQabbaha/Project_5_Fork
+
+
+   
